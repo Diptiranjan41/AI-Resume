@@ -1,5 +1,5 @@
 // services/api.js - COMPLETE FIXED CODE WITH ENHANCED ERROR HANDLING (PROFILE & INTERVIEW FUNCTIONS REMOVED)
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://ai-resume-u8r4.onrender.com/api';
 
 class ApiService {
   constructor() {
